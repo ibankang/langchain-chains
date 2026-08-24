@@ -5,3 +5,4 @@ langchain-groq
 langchain-anthropic
 pydantic
 python-dotenv
+grandalf
